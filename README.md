@@ -1,2 +1,7 @@
-# sample-docker
-Hello world! Learning Docker
+# Base Image
+
+ubuntu
+
+# Actions
+
+[Build Time] Echo/Print Hello World!
